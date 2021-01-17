@@ -1,0 +1,16 @@
+p {
+    background-color: rgb(164, 164, 216);
+    color:rgb(14, 11, 11);
+    border: 50px solid rgb(140, 136, 143);
+    padding: 1em;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+h1 {
+    background-color: #a3e4de;
+    color: #993574;
+    padding: 1em;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+body{
+    background-color:dimgrey
+}
